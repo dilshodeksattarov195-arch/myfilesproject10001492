@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesave",
+        "uuid": 2615476,
+        "checksum": "cb2up"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
